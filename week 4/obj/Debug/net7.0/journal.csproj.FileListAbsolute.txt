@@ -1,0 +1,14 @@
+C:\Users\clivd\OneDrive\Desktop\week 4\bin\Debug\net7.0\journal.exe
+C:\Users\clivd\OneDrive\Desktop\week 4\bin\Debug\net7.0\journal.deps.json
+C:\Users\clivd\OneDrive\Desktop\week 4\bin\Debug\net7.0\journal.runtimeconfig.json
+C:\Users\clivd\OneDrive\Desktop\week 4\bin\Debug\net7.0\journal.dll
+C:\Users\clivd\OneDrive\Desktop\week 4\bin\Debug\net7.0\journal.pdb
+C:\Users\clivd\OneDrive\Desktop\week 4\obj\Debug\net7.0\journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clivd\OneDrive\Desktop\week 4\obj\Debug\net7.0\journal.AssemblyInfoInputs.cache
+C:\Users\clivd\OneDrive\Desktop\week 4\obj\Debug\net7.0\journal.AssemblyInfo.cs
+C:\Users\clivd\OneDrive\Desktop\week 4\obj\Debug\net7.0\journal.csproj.CoreCompileInputs.cache
+C:\Users\clivd\OneDrive\Desktop\week 4\obj\Debug\net7.0\journal.dll
+C:\Users\clivd\OneDrive\Desktop\week 4\obj\Debug\net7.0\refint\journal.dll
+C:\Users\clivd\OneDrive\Desktop\week 4\obj\Debug\net7.0\journal.pdb
+C:\Users\clivd\OneDrive\Desktop\week 4\obj\Debug\net7.0\journal.genruntimeconfig.cache
+C:\Users\clivd\OneDrive\Desktop\week 4\obj\Debug\net7.0\ref\journal.dll
